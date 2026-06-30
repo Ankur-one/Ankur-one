@@ -138,6 +138,11 @@ AI & ML Enthusiast • Data Science Learner • Python Developer
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ankur-one/Ankur-one/output/github-contribution-grid-snake-dark.svg">
+</p>
 # 💭 Quote
 
 > "Code. Learn. Build. Repeat."
