@@ -94,7 +94,7 @@ AI & ML Enthusiast • Data Science Learner • Python Developer
 
 # 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankur-one&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankur-one&theme=tokyo-night)](https://github.com/Ankur-one/github-readme-activity-graph)
 
 ---
 
