@@ -150,5 +150,5 @@ AI & ML Enthusiast • Data Science Learner • Python Developer
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile ⭐
+⭐ Thanks for visiting my profile for data science ⭐
 </p>
