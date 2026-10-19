@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankur Kumar</h1>
 
 <h3 align="center">
-AI & ML Enthusiast • Data Science Learner • Python Developer
+Generative Ai  Agentic Ai • Data Science Learner • Python Developer 
 </h3>
 
 <p align="center">
