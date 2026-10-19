@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankur Kumar</h1>
 
 <h3 align="center">
-Generative Ai  Agentic Ai • Data Science Learner • Python Developer 
+Generative Ai • Agentic Ai • Data Science Learner • Python Developer 
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Deep+Learning+Learner;Generative+AI+Explorer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Deep+Learning+Learner;Generative+AI+Agentic+AIExplorer"/>
 </p>
 
 ---
